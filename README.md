@@ -9,7 +9,7 @@ pip install numpy, pandas, scipy, matplotlib, seaborn, pytorch
 
 
 ## 使用说明
-Step 1. 修改 './TMP/生成数据用于测试.xlsx'表格，填入对应战场流量和温度。
+Step 1. 修改 './TMP/生成数据用于测试.xlsx'表格，填入对应战场流量和温度。  
 Step 2. 运行程序，将生成'./TMP/输出流量压力分布结果.xlsx'。
 
 
