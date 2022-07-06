@@ -14,7 +14,7 @@ conda install numpy, pandas, scipy, matplotlib, seaborn, pytorch
 ````
 
 ## Instructions for use
-Step 1. Modify the './DATA/DATA2Git.xlsx' form, and fill in the corresponding battlefield flow and temperature.
+Step 1. Modify the './DATA/DATA2Git.xlsx' form, and fill in the corresponding battlefield flow and temperature.   
 Step 2. Run the program, it will generate './DATA/OutputResults.xlsx'.
 
 
